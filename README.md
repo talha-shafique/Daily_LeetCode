@@ -1,2 +1,6 @@
-# Daily_LeetCode
-A consistent log of my daily LeetCode problem-solving — sharpening algorithms, data structures, and coding skills one day at a time.
+### 🚀 LeetCode Daily Grind
+
+🧩 Solving one LeetCode problem every day — building muscle in algorithms & data structures through consistency and focus.  
+📈 Tracking progress, sharpening skills, and staying on the grind.  
+🐍 **Language:** Python  
+📅 **Goal:** Daily commitment. Long-term growth. No shortcuts.
