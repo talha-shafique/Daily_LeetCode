@@ -1,4 +1,4 @@
- ## 🚀 LeetCode Daily Grind
+ ## 🚀 Daily LeetCode Grind
  
  ### 🧩 Solving LeetCode problems daily.  
  ### 📈 Tracking progress, sharpening skills, and staying on the grind.  
